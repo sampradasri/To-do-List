@@ -1,0 +1,1 @@
+Built a To-Do List Web Application using HTML, CSS, Javascript with Add button to add tasks or when clicked on enter key, mark tasks as completed by toggling a CSS class, and delete tasks when clicked on delete button.
